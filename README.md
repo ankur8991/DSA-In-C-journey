@@ -1,0 +1,2 @@
+# DSA-In-C-journey
+“This repository is a complete DSA journey in C language, built with consistent practice and deep understanding. It covers both Data Structures and Algorithms in detail — including Arrays, Linked Lists, Stacks, Queues, Trees, Graphs (with BFS), and all major Sorting techniques. Every code is written from scratch in C, making it a perfect resource for practice, revision, and strengthening problem-solving skills.”
